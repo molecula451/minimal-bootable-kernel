@@ -1,5 +1,7 @@
 # Minimal C Kernel
 
+<img width="715" height="451" alt="imagen" src="https://github.com/user-attachments/assets/08371dea-fd8c-42b6-9288-be5ffbe25e76" />
+
 This is a minimal kernel written in C that can be compiled and run on QEMU. It demonstrates basic kernel initialization and VGA text output.
 
 ## The absolutely intention of the kernel it's to be as minimal as possible to interface with qemu and test OS concepts
@@ -43,5 +45,3 @@ You should see the message "Hello, Kernel Initialized!" displayed on the screen,
 - The kernel then enters an infinite loop.
 
 This is a very basic example. For more advanced features, consider adding interrupts, memory management, etc.
-
-<img width="715" height="451" alt="imagen" src="https://github.com/user-attachments/assets/08371dea-fd8c-42b6-9288-be5ffbe25e76" />
