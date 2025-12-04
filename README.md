@@ -2,6 +2,8 @@
 
 This is a minimal kernel written in C that can be compiled and run on QEMU. It demonstrates basic kernel initialization and VGA text output.
 
+## The absolutely intention of the kernel it's to be as minimal as possible to interface with qemu and test OS concepts
+
 ## Prerequisites
 
 - GCC (with 32-bit support)
