@@ -41,3 +41,5 @@ You should see the message "Hello, Kernel Initialized!" displayed on the screen,
 - The kernel then enters an infinite loop.
 
 This is a very basic example. For more advanced features, consider adding interrupts, memory management, etc.
+
+<img width="715" height="451" alt="imagen" src="https://github.com/user-attachments/assets/08371dea-fd8c-42b6-9288-be5ffbe25e76" />
